@@ -56,6 +56,7 @@
         "@solana/wallet-adapter-onto": "workspace:^",
         "@solana/wallet-adapter-particle": "workspace:^",
         "@solana/wallet-adapter-phantom": "workspace:^",
+        "@solana/wallet-adapter-tonspack": "workspace:^",
         "@solana/wallet-adapter-safepal": "workspace:^",
         "@solana/wallet-adapter-saifu": "workspace:^",
         "@solana/wallet-adapter-salmon": "workspace:^",
